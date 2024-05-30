@@ -973,7 +973,7 @@
     },
     "2207": {
         "code": "SENZ2207",
-        "class": "SzConfigurationError",
+        "class": "SzUnknownDatasourceError",
         "name": "EAS_ERR_DATA_SOURCE_CODE_DOES_NOT_EXIST",
         "comment": "Data source code [{0}] does not exist."
     },
